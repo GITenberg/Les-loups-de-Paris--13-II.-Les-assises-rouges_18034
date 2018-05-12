@@ -1,0 +1,29 @@
+_repo: Les-loups-de-Paris--13-II.-Les-assises-rouges_18034
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lermina, Jules
+    alias: Lermina, Jules Hippolyte
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '7273'
+    url: http://www.gutenberg.org/2009/agents/7273
+    wikipedia: http://fr.wikipedia.org/wiki/Jules_Lermina
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18034'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Fiction'
+- !lcc 'PQ'
+title: "Les loups de Paris\r\nII. Les assises rouges"
+url: http://www.gutenberg.org/ebooks/18034
