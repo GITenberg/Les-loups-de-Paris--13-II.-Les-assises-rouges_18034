@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7273
     wikipedia: http://fr.wikipedia.org/wiki/Jules_Lermina
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18034#Les-loups-de-Paris--13-II.-Les-assises-rouges
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-03-21'
 gutenberg_type: Text
